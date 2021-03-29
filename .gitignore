@@ -1,0 +1,49 @@
+VaccineApp/HELP.md
+VaccineApp/target/
+VaccineApp/.mvn/
+VaccineApp/!**/src/main/**/target/
+VaccineApp/!**/src/test/**/target/
+VaccineApp/mvnw
+VaccineApp/mvnw.cmd
+
+### STS ###
+VaccineApp/.apt_generated
+VaccineApp/.classpath
+VaccineApp/.factorypath
+VaccineApp/.project
+VaccineApp/.settings
+VaccineApp/.springBeans
+VaccineApp/.sts4-cache
+
+### IntelliJ IDEA ###
+VaccineApp/.idea
+VaccineApp/*.iws
+VaccineApp/*.iml
+VaccineApp/*.ipr
+
+### VS Code ###
+VaccineApp/.vscode/
+
+# dependencies
+vaccine-web/node_modules/
+vaccine-web/.pnp/
+vaccine-web/.pnp.js
+
+# testing
+vaccine-web/coverage
+
+# production
+vaccine-web/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+VaccineApp.rar
